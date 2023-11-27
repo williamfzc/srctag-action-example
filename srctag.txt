@@ -1,0 +1,9 @@
+XMLHttpRequests from browser
+HTTP requests from node.js
+Promise API support
+Request and response interception
+Request and response data transformation
+Request cancellation
+Automatic JSON data transforms
+Automatic serialization of data objects
+Client-side XSRF protection
